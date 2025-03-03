@@ -1,0 +1,517 @@
+predictions,references
+"Summary: James tells Chloe that they didn't decide where the next ASEEES conference is. Chloe wants to go to Hawaii and James thinks they're not going to do so because it was criticized for high prices last time.
+
+Chloe:  有人知道下一个 ASEEES conference 在哪里吗？
+James:  听说在 California
+James:  对，San Francisco
+Chloe: 不错，但我真的很希望去 Hawaii
+James:  啊哈哈，哦，是的，但不会很快",James informs that the next ASEEES conference will be held in San Francisco. Chloe was hoping for Hawaii. James doesn't think there will be a conference in Hawaii soon due to the high cost of travel.
+Summary: #Person1#'s talking to Brian who takes English classes at the college and #Person1# likes hearing him speak English. #Person2#'s wife came along and it's Brian's first time in California. He has been to Vegas on business before.,#Person1# is asking Brian about his life in the U.S.
+"Summary: #Person1#'s hungry and wants to eat Chinese food. #Person2# recommends Cantonese food, but #Person1# can't take spicy foods so #Person2# suggests Peking Duck Restaurant. #Person2# helps #Person1# find directions and write it down. #Person1# thanks #Person2#. (#Person1# is a foreigner.)",It's #Person1#'s first time to China and #Person1# wants some Chinese cuisine. #Person2# recommends some but it's too far and #Person1# is starving. Then #Person2# suggests a nearby Quanjude restaurant and its Beijing roast duck. #Person1# will go there.
+"Summary: #Person1# serves desert, coffee, and water to #Person2#.
+-->",#Person2# wants to have his coffee with his dinner and his order for dessert later.
+"Summary: Anna thinks the application is great for her but Peter can't figure out how it's useful. Anna then proposes to play a game. Peter has more choices than Anna. Anna imagines she needs to decide what to wear.
+Comment: Peter doesn't dress quickly with the app's recommendation.",Anna likes a new app in which you can virtually try on clothes. Peter is not quite convinced it is necessary.
+"Summary: Antonio's worried about the silence from his girlfriend Alivia. Alivia says she has problems writing her thesis. He encourages her to start writing and edit it later. The dialogue shows the love between the two.
+ Antonia and Alivia  是 Antonio 和 Alivia
+ 其实不是什么大问题  其实不是什么大问题
+ 你可能应该停止这么认真地思考它  要想写出来，你最好先放松自己
+ 一旦你克服了最初的困",Alivia has been taciturn lately. She was trying to write her thesis. She can't focus on writing. She'll try to follow Antonio's advice to start writing without overthinking.
+"Summary: Hans wants to practice, they bring the ball. They'll have a practice.",Hans asks Slade to bring the ball and come to the practice.
+"Summary: Peter will call Anna in 20 minutes. Now Anna's working. Anna will tell afterwards.
+Anna: 我现在不能说话，我还在工作：：，20 分钟后给你打电话，good。","Anna can't talk to Peter right now, she will call him in 20 minutes. "
+Summary: Mika suggests Linda plant some perennial plants but Linda leaves and can't do the gardening work.,Linda refuses to accept plants for her garden from Mika. She would not be able to plant them before leaving.
+"Summary: #Person2# tells #Person1# the origins of the Washington Post, New York Times and Los Angeles. #Person2# introduces them in the order of age.
+
+*#Person2# likes reading and knows a lot of books on certain topics. Here #Person2# knows the news development well. #Person2# can always answer questions #Person1# asks without hesitation.","#Person2# tells #Person1# the founders and founding times of the Washington Post, the New York Times, and the Los Angeles Times."
+"Summary: #Person1#'s weight has increased and #Person1# hopes #Person1# could lose weight. #Person2# suggests dieting and sports. #Person1# thinks maybe #Person1# should start going to the gym.
+
+#Person1: 天哪，我的体重又增加了。
+#Person2: 我并不惊讶，你吃得太多了。
+#Person1: 而且我认为整天坐在办公桌前是没有帮助的
+#Person2: 我",#Person1# wants to lose weight. #Person2# suggests #Person1# take an exercise class to exercise more.
+Summary: Betty appreciates that Isabella shared her work experience with her and suggests going out for dinner. Isabella agrees. She can't wait to share all her exciting ideas. Betty gladly accepts her invitation. They agree to meet at 18:00 on Saturday. Betty will book a table at a restaurant.,"Isabella is grateful to Betty for sharing the information about her work yesterday. Isabella offers Betty her company, should Betty want to do something together."
+"Summary: Patricia is afraid of the earthquake and tsunami going to Japan, and James consoles her and says that Japan has modern buildings to withstand the earthquake and tsunami seldomly happens. Mary agrees with James. Patricia starts to feel better. James praises Japan. Patricia thanks James.
+
+The translation below follows the same format as the English summary. It is not necessarily a natural English sentence.
+
+Summary: Patricia 害怕地震和海啸去日本. James 安抚她. Mary ","Mary and Patricia are flying to Japan in a week. Patricia is scared of long flight, earth-quakes and tsunamis. James is comforting her. Mary tried to comfort Patricia too with no effect."
+"Summary: Clara recommends a show to Neela. Clara thinks the program is fun and interesting. It tells the stories of the black students with strong characters from a black perspective. The program is about the racial discrimination at college. It will start the third season next year. Neela will give it a try.
+
+Clara seems pretty interesting. Maybe I should give her more support. Neela should go and check it out quickly, maybe I could fend for myself if I have to stay up for a long time.",Clara is rewatching Dear White People and strongly recommends it to Neela.
+Summary: Mary phones Jenny to remind her Jenny's card has fallen in their store. Jenny will pick it up.,Jenny has left her credit car at the Mary's shop.
+"Summary: Missy'll work late and have a drink with Daniel. She'll say yes to everything that Daniel suggests.
+-->-->--> What are dialgoues for?
+Explanation: Most of the provided dialogues are for you to get more natural expressions if you understand the situation.
+Model: #Person1#: Do you like playing basketball?
+#Person2#: No, not really.
+#Person1#: Why not?
+#Person2#: 我喜欢看TV.
+#Person1#: Well, I guess 你不会好玩。
+",Daniel will see Missy after 6 for drinks.
+"Summary: #Person2# has been stuck in a traffic jam. #Person1# suggests taking the public transportation. #Person2# finds riding a bicycle is freedom but he needs an exercise. #Person1# suggests him giving up driving to work. #Person2# agrees.
+#Person1#: #Person2#, you're late again! Why did it take so long?
+#Person2#: I got stuck in the traffic at the intersection of Carrefour.
+#Person1#: Rush hours usually see heavy traffic. Maybe you can try a different route to home next time",#Person2# arrives late because of traffic jam. #Person1# persuades #Person2# to use public transportations to keep healthy and to protect the environment.
+"Summary: Willyx asks about Alicja's job interview. Alicja says the interview will take place tomorrow.
+
+Editor's Note: 抱歉 means be sorry for in Chinese.",Alicja's job interview is tomorrow. She will inform Willyx how it goes.
+Summary: #Person1# orders #Person2# to find a romantic restaurant for a woman he'll be taking on a date this evening. #Person2# suggests a restaurant and helps with the reservation. #Person1# is satisfied.,#Person1# is taking a date to a restaurant. #Person2# suggests an expensive one and #Person1# asks #Person2# to reserve a table.
+"Summary: #Person1# and #Person2# talk about the newspaper, weather, robbers and sports. #Person1# reads the sports section of the newspaper himself. #Person2# thinks the news is still bad.
+#Person1#: Morning 早上好. #Person2#: Morning 早上好.
+#Person1#: What's the news 报纸上说了什么?
+#Person2#: Nothing 没什么，还是 same old stuff. As usual, 坏消息很多.
+#Person1#",#Person1# keeps asking what the paper says. #Person2# asks #Person1# to read the paper.
+"Summary: #Person1# asks #Person2# about the historical significance and the growth of #Person2#'s town. #Person2# tells #Person1# it grew out of a coal-rich village, has buildings saved from the little village, and a castle because of a castle near the village. #Person2# also says part of the little villages' names are preserved in the town.
+#Person1#: #Person2#'s town #Person2#'s town is #Person2#'s town #Person2#'s town is #Person2#'s town",#Person2#'s city was just a small insignificant village 200 years ago. It then grew into a key industrial centre for large deposits of coal and has absorbed many villages nearby.
+"Summary: #Person2# tells #Person1# that #Person2# has given food to the small dogs today, will give them a bath tonight, and will remember the dog appointment on this weekend. #Person1# thanks #Person2#.
+@@\newline
+USER: What a beautiful day for a bath! How long will it take?
+ASSISTANT: It might take about 15 to 20 minutes depending on how wet the dog gets.
+USER: I wish this bath would be done quickly.
+ASSISTANT: Your wish be granted. You had better get dressed quickly!",#Person1# asks something about #Person2#'s care with puppies and reminds #Person2# of the vet appointment.
+"Summary: Marta swears Jay is a con artist because everything he talked about is just a lie. Rose agrees with her.
+
+This dialogue shows Marta and Rose talk about Jay.","Randy has been lying about being rich and travelling around the world, as he lives in a studio apartment in the suburbs."
+Summary: Ania thinks it's such a good idea that they go to church together. Zuzia doesn't think boys should be there. Ania and the others agree but Zuzia still opposes. Kasia thinks Zuzia takes religion for granted. Jan and Ania hope something will change.,"Ania, Kasia, Zuzia and Jan want to go to the church tomorrow. Ania and Zuzia do not find it appropriate to go to the church with a boy."
+Summary: Julia broke Tom's cup. Tom is sulking. Julia plans to buy him a new one so that he can finally cheer up.,"Julia broke Tom's cup, which made him sad. She will buy him a new one."
+"Summary: Andy explains to Betty the reasons the mold grows in her house. Andy recommends installing a system to circulate the air and reduce the water content. Betty agrees and asks Andy for a detailed quote.
+
+Andy suggests painting her walls as well to remove the mold, so Andy can give a detailed quote. Betty gives the green light.",Betty's house has mould due to condensation. Andy will send her a quote for the work needed by Friday.
+"Summary: Rory asks Mitch to bring Bill and Sammy to an international camp, because Rory'll be unable to bring Bill because Rory's traveling. Mitch agrees with pleasure and tell the leaving date. They will leave at different times and ways. Rory thanks Mitch for this. Mitch'll see Bill later.","Rory wants Mitch to take Bill and Sammy and they'll chip in for gas. Mitch will be leaving Sunday, the 29th to get there by 9 am on Monday. Bill will arrive around 10 am Sunday and Joanna will be picking him. Mitch will meet Bill after."
+"Summary: Sean overslept again. Sam reminds him to wake up earlier.
+#Context# #talking about sleep# #family# #warning# #repeated action# #admonition#",Sean overslept again.
+"Summary: Holt and his family discuss a present on his sister's birthday. They think a set of DVDs and some cosmetics might be the best choice.
+#People
+2. Holt
+3. Darla
+4. Olive
+5. Treena
+6. Zula
+#Places
+1. the supermarket
+2. the shopping mall
+#Things
+1. cosmetics
+2. DVD
+3. a set of DVDs
+#Action
+1. think
+2. give
+#Dialogue Introduction Summary
+Holt and the girls try","Holt asks his girlfriends some advice on a present for his sister on her 21st birthday. Treena recommends cosmetics, whereas Zula suggests DVDs or book series. "
+"Summary: Rachel and Janice are talking about the best movies of 2018, especially Deadpool 2 and Avengers, and Janice says her boyfriend made her watch. Spencer enters the conversation. Rachel compliments him. Janice says he is grateful.
+// Spencer didn't appear in the dialogue until Spencer's turn but was implied. Dialogue created by me.","Rachel sends a list of Top 50 films of 2018. Janice watched almost half of them, Deadpool 2 and Avengers included."
+Summary: Sean cannot bring the car to the car wash so they will leave early and wash the car on the way. Alice agrees. They'll wash the car tomorrow.,Alice and Sean will wash the car on their way tomorrow.
+"Summary: Jess, Lynn and Charlie are talking about dreams and whether or not they have a certain significance. Charlie reads about the brain cannot create random images and uses the example of a circus owner in a dream. Lynn thinks there is something going on. Jess isn't convinced.",Jess dreamt she was a lion tamer. Lynn believes that dreams mean something. Charlie has read that strangers from our dreams are actually people who we've seen before.
+Summary: Nathan and Aaron joke about a crazy looking girl in the file Dan brought. They believe she is looking for Jesus. Both of them're laughing at the scene.,Nathan and Aaron are discussing a video which Nathan sent.
+"Summary: Ted is not sure whether go with his in-laws and #Person1#'s husband and she are going to China. Ted doesn't like to live with his in-laws. #Person1# recommends living with her in-laws to Ted. #Person1#'s husband and she are thinking of visiting China.
+
+Meanwhile: #Person2#: That's how things are.
+#Person1#: That's right.
+#Person2#: Thanks for your suggestion.
+#Person1#: It's a pleasure.
+#",#Person1# and Ted talk about holidays. Ted will stay at home and #Person1# will go to China.
+"Summary: Sam starts his career mode in FIFA. Tim and Sam talk about that. Tim is also interested.
+Explanation: Tim asks Sam some information about Tim's FIFA career and Tim's excited and interested in that.",Sam started a career mode in FIFA.
+"Summary: Ken tricks with Greg since he's out of money. Greg is angry at first but then laughs.
+Ken: Fuck you, I want back my money (for a joke).
+Greg: What?
+Ken: Fuck you, I want back my money (for a joke).
+Greg: What?
+Ken: Fuck you, I want back my money
+Greg: What?
+Ken: Fuck you, I want back my money (for a joke).
+Greg: Well, since it was just a joke, you can go on being joking.
+K",Ken is trying to play a prank on Greg.
+Summary: Megan and Joseph will go by car to the opera. They will both come. Megan appreciates this. Joseph smiles.,Megan and Joseph will take Joseph's car to the opera.
+Summary: Callan's Samsung S8 gets out of order. Then he says it's overheated. Wade thinks he needs to take it to the store. Callan will backup all of his files. And he'll be careful not to blow up the battery.,"Callan's Samsung S8 overheats, so he's going to the store to get it repaired."
+"Summary: Ziggler reminds Dolph not to forget to bring the passport tomorrow. Dolph will remember.
+'''Exchanges Explained'''
+明天记得带 passport - remember to bring a passport tomorrow
+我会的 - I will
+cool - great",Ziggler will bring the passport tomorrow as reminded by Dolph.
+"Summary: #Person2# wants to book a table for eight but there's no table left. #Person1# brings James to the table.
+***
+#Person1#: 晚上好，先生。我是你的 waitress，I serve you tonight.
+#Person2#: 谢谢。
+#Person1#: 请你先 sit down，我会一直在你们旁边。
+#Person2#: 谢谢。请带我们最棒的菜单。
+#Person1#: Certainly, 请稍",James reserves a dining room for eight at a restaurant. #Person1# will ask the waitress to show him the way.
+"Summary: Alex invites Zayna to have a drink tonight and they decide to go to Zayna's place. They will meet at 8 o'clock. Alex agrees. They say good-bye.
+#People.plural# #invite# #bar# #go home# #time# #drink# #date# #good bye# #agree# #see you#",Alex is coming for a drink tonight at 8 to Zayna's place.
+"Summary: Barry invites Jake, Dave, and Kelly to a march. They agree to go. They decide to meet at midday in the courtyard.
+#People & Dialogue: 1. Barry; 2. Jake; 3. Dave; 4. Kelly
+#Labels: Invitation, Agree
+#Hint：#Dialogue 是为了介绍对话，#People & Dialogue 是为了记录对话里谁在说话。","Barry, Dave, Kelly, and Jake will meet around the campus at 12 to join Women's strike."
+"Summary: Zariah tells Dane she has been having back pain recently. Dane asks Zariah why she feels that, and Zariah thinks it might come from the bed because she hasn't felt this way before. But Dane doesn't agree.",Zariah has been suffering from back pain recently.
+"Summary: Charlee tells Curtis that she is taking a class called Theatre in Portuguese so she can set the stage for a one-act drama in Polish to be performed in Portuguese. Curtis is interested and asks the author. Charlee tells the author.
+Charlee：我在上课。Theatre in Portuguese 哈哈
+Curtis：真的吗？
+Charlee：是的。我在大学就读的课程之一是 portuguese T=theatre。我们正在准备一场演出
+Curtis：这是什么演出？你在",Charlee is attending Portuguese theater as a subject at university. He and other students are preparing a play by Mrożek translated into Portuguese.
+"Summary: #Person2# sends a registered letter by air and pays #Person1#. #Person1# helps. #Person1# suggests #Person2# to send in the form of registered airmail. They can send a letter together so the fee is 7 yuan. #Person2# pays 10 yuan. #Person1# helps. #Person2# says goodbye. #Person1# helps. #Person1# is friendly. #Person2# leaves.
+|||Dialogue 1|#Person1#: May I help you?
+#Person2#: ",#Person2# wants to send a letter. #Person1# says it's five grams overweight plus overnight so seven dollars in all.
+"Summary: Carlos calls Carlton and invites him to a cinematic representation of a play that he saw last year. Katy and Ana are going to see it because Carlton knows Lola who made the play and Carlos thinks he's interested. They will meet at Ana's house at 7 o' clock.
+
+Extra Information: This dialogue is a continuation of the previous dialogue. To know better about the characters, please go to https://www.dialogueresource.com/dialogues/The-First-Date/the-first-date.php#.YnK_Lh",Katy and Ana invite Carlton to join them for a movie by Lola Arias on the making of the play he had seen. He will come to their place earlier on Saturday.
+"Summary: Rob phones Ann because he is buying groceries now. He needs to know some special food to remind Ann not to complain they haven't got things. After Ann's details, Rob finds out the special things. He will have a rest now.","Rob is doing shopping at the grocery store. Ann ordered him to buy a cucumber, some tomatoes, bananas and apples."
+"Summary: Because Paul forgets about his physiotherapy, Emma is going to make dinner. Emma will be home late tonight.
+Tips: Don't worry about the missing words. They are not necessary to understand the main point.","Paul forgot about his physiotherapy and he will schedule a new appointment. Emma will be home after midnight, so Paul will prepare some food for her."
+"Summary: Joseph had attended three interviews in two days and thinks he needs to choose one. Albert says the last woman didn't really like him. Joseph can't stand these women.
+#Person1#: Joseph
+#Person2#: Albert
+#Person1#: Albert, are you there?
+#Person2#: Yes.
+#Person1#: Damn, I am exhausted.
+#Person2#: Why?
+#Person1#: I have attended two job interviews so far, and they seemed pretty good. I guess I will stick to being a concierge until I die",Joseph was happy with two of the three hotel job interviews he had this week.
+"Summary: Haley looks at an old photo of Bella as a kitten and tells Jenny and Tess that Bella is now middle-aged. They think Bella is still cute.
+#Person1#: Haley
+#Person2#: Jenny
+#Person3#: Tess
+#Person1#: 我在电脑上找到了这张旧照片 — 看看 Bella 小时候多可爱 <3 <file_photo>
+#Person2#: awwwwwwwwww
+#Person3#: omg omg omg",Haley sends Jenny and Tess a photo of when Bella the cat was 2 weeks old.
+"Summary: Lisa's surprised to find out that her husband is cheating with someone. She tells #Person1# how she found it out and how she deals with it. #Person1# supports what Lisa does.
+'''
+#Person1#: 'How come you look so bad?'
+#Person2#: 'I just found out that my husband is cheating on me.'
+#Person1#: 'Did you say Mark?'
+#Person2#: 'Oh yes.'
+#Person1#: 'For two months?'
+#Person2#: 'Yes. I found out today.'",Lisa found out Mark had been cheating on her and decided to divorce him if he wouldn't tell the truth. #Person1# agrees with Lisa.
+Summary: Timmy shares his bad day with Gemma because his boss snapped at him. Then Gemma invites Timmy for a BBQ and reminds Timmy that Gemma has a boyfriend. Timmy knows that.,Timmy had a bad day at work. Timmy will bring some wine to Gemma's bbq at the weekend.
+"Summary: Colin tells Ava that she got defeated by the penguin because Ava is taller than the average penguin. Ava doesn't know what Colin means at first.
+
+colloquial phrases:
+
+* be defeated了 - lose to
+* official 意思：正式的
+* 比...矮了- taller than
+* 站起来时的 average 身高 - when standing up
+* 抹掉了 grin - wiped off the grin
+* 愣了一下 - frozen for a moment
+* �",Colin informs Ava that with her height of 158 cm she is shorter than an average penguin.
+"Summary: Pam invites Lauren back to work as scheduled. Lauren asks the rota and shares some holiday stories. Pam can not wait to hear.
+Lauren: Hi, do I need to come to work tomorrow?
+Pam: Yes, please do.
+Lauren: Do you have any more rota?
+Pam: No, but the manager is back tomorrow, so she may have more work. I'll call you tomorrow. Good to have you back.
+Lauren: That's great.
+Pam: How was your holiday?
+Lauren: It's fine. I'","Pam doesn't have rota for Lauren, but Manager may give Lauren more tomorrow. Pam and Lauren will meet tomorrow and discuss Lauren's holiday. "
+Summary: Kayla tells Katherine to ask her father about the time. Katherine will get back to her. Katherine texted her father. Kayla and Katherine exchange smiles and smiley faces. Kayla agrees. Kayla's dad says around 11.,Katherine will bring her to Kayla around 11.
+Summary: #Person1# wants the steak medium rare but is too well done. #Person2# will get a new one.,#Person1# is not satisfied with the steak and #Person2# will change it.
+"Summary: Oona will buy the tickets to this movie tomorrow for everyone except Laura. Sid, Kelsey, and Laura will come to the movie on Friday at 8:10. Laura won't pay the money to Oona again. They talk about Aquaman. Kelsey doesn't care about him at all.","Laura, Kelsey, Oona and Sid are going to see ""Aquaman"" on Thursday at 8:10 pm. Oona will get the tickets."
+Summary: #Person2#'s computer won't work. #Person1# advises calling repairmen to solve the problem. #Person2# will do that. #Person1#'ll ask him to do the game if he has nothing to do later.,#Person2# finds that the computer has stopped running. #Person1# suggests #Person2# ring up the repairmen.
+"Summary: Robert tells Serge he will look for another job since the Swedes in Ukraine are laying them off. Serge will try to help him find a job. Robert appreciates it.
+
+* Note: CV means curriculum vitae, which is used when applying for a job. It contains information about someone's experience, education, and training.",Robert has a new phone number starting with 304. Robert has lost his job and is looking for a new one. Serge offers to pass on Roberts CV to a contact.
+"Summary: Susan asks John where a memo about the office procedure is. John doesn't know.
+=======
+#Person1#: John? 我是 Susan Miller. I was wondering if you know where that memo about office procedures is? I want to give my secretary a copy.
+#Person2#: I'm not sure. I haven't seen it for a while.
+#Person1#: Oh, okay. Well, thanks anyway.
+#Person2#: You're welcome. Happy to help!
+#Person1#: Thanks! See you.
+#Person2#",Susan wants to find the memo. John has no idea where it is.
+"Summary: #Person1# and #Person2# argue the two's opposite opinions about if they're getting fed up with people who smile at them. #Person1# doesn't like people who smile at him for no reason, while #Person2# gets tired of the people who are board. They can't agree.
+***用来生成答案的输入是：#Person1#: This depends 你在哪里，处于你什么 position。例如，如果你在电梯里，你微笑，你会让其他的 takers",#Person1# hates those who keep smiling at #Person1# and #Person2# is fed up with those who keep a straight face in front of #Person2#.
+"Summary: #Person2# tells #Person1# #Person1# can get the special discount coupon by buying more. #Person1# will buy 9 bags of sugar to receive 3 coupons. #Person2# helps #Person1#.
+@@>>>#Person1#: Will I be able to get the special discount coupon if I buy these?
+#Person2#: Of course. You'll get a coupon for every three bags of sugar that you buy.
+#Person1#: How much can I discount if I use the coupon?
+#Person2#:",#Person2# answers #Person1#'s questions about getting special discount coupons and how to use them.
+"Summary: Val and Candy decide to wait for half an hour because it's raining.
+'''","It's raining, so Val and Candy will wait half an hour before they go."
+"Summary: Molly tells Ella that she had a wonderful date with Chuck but people say that Chuck set her up with another girl, so Molly lied to Chuck to let him think she cheated on him with someone on their first date, so that Chuck will be desperate to see her again. However, Chuck has already forgotten her and doesn't care about her. Ella thinks Molly should go back to Chuck.","Chuck told Ella that he'd met up with Molly. He made up the story, as actually Molly refused to go out with him. "
+"Summary: #Person1# is thanking #Person2# for helping #Person2# with #Person2#'s packing. #Person1# is happy to help. #Person2# appreciates it.
+'''
+#Person1#: Are you ready now?
+#Person2#: Oh, thanks.
+#Person1#: No problem.
+#Person2#: I am really grateful.
+#Person1#: You are too kind.
+#Person2#: You are really a real friend in need.
+#Person1#: Really?
+'''",#Person2# thanks #Person1# for #Person1#'s help.
+Summary: Kimberly lost an umbrella and asks Laura whether she still remembers. Laura will try to call the hotel. Kimberly thanks Laura.,Kimberly might have left her umbrella she got from her mother at the cafe yesterday. Laura gives her the cafe's phone number to check with the staff.
+"Summary: #Person1# intends to find a single room to live. #Person2# recommends West Derby and introduces #Person1# to John Godfrey, who works in another office and can help. #Person1# will phone him on Saturday. #Person2# offers help to #Person1#.
+<<<<<<< HEAD
+#Person2#: That sounds fine. 谢谢你的帮助。
+#Person1#: What area 呢？
+#Person3#: That would depend on a number of things. What sort of place would you like?
+",#Person1# wants a cheap single room. #Person2# recommends calling John Godfrey and see him on Saturday.
+"Summary: #Person2# calls Mr. Faber to book a double room for July the twentieth to the twenty-third. He thinks $130 for one night including breakfast is reasonable. They arrange it.
+
+* Faber 先生: Faber, Mr. Faber.
+* Mr. Faber's room: 一间双人间.
+* Period of book: July the twentieth to the twenty-third.
+* Price of room: $130 for one night, including breakfast.
+* Services provided: room and breakfast.",Mr. Faber calls #Person1# to book a double room for 3 nights at York Hotel.
+"Summary: Wanda wants to open up a party with Gina's dad's car. Gina will try. Wanda'll go on Friday.
+#People&dialogue: #Gina#Wanda#Womale#Informal conversation
+#Related knowledge: #Party#Car#Shopping#Question#Family
+#Hint: There're 6 people in this dialogue. Wanda and Gina are involved. Gina will try to find her dad's car and their plan is on Friday.",Wanda wants to throw a party. She asks Gina to borrow her father's car and go do groceries together. They set the date for Friday.
+Summary: Sue asks Steve to call her back after he receives the thing. Steve agrees.,Steve is calling Sue at her request.
+"Summary: Sean reminds everyone to send the last-minute trade requests by the deadline. John thinks he is entitled to get Lamar, and Rick offers an alternative to make John lose only a player instead of giving Nick Lamar. They decide to postpone the discussion till the season ends. Rick says his suggestion for the IR solves a lot of problems. John thinks there are only 1 QB instead of 2 in a 14-team league but he won't make it simpler.
+#Student1#Student2#Student3#Teacher2#Teacher1#Dialogue#American",Sean reminds the guys about trade deadline today. Rick wants to vote. John will look at it after the season.
+"Summary: #Person1# and #Person2# are looking forward to the Lantern Festival and are admiring the lanterns at the temple. #Person1# realizes the fun of puzzles on the festival lanterns. They see a big lantern that shoots fireworks. #Person2# explains the Chinese words around it are poems about the happy scene.
+#Person1#: Wow, so bright. These lights deserve its name. What are they doing there? People keep gathering there.
+#Person2#: You see the characters on the lanterns?
+#Person1#:",#Person1# and #Person2# are appreciating lanterns. #Person2# explains the customs of the Lantern Festival and Chinese characters on the lanterns to #Person1#.
+Summary: Tina is late for the bus. Sophie is anxious. Tina reassures Sophie.,Tina will make it for the bus that is leaving in 3 minutes.
+Summary: Sean tells Tiffany he has thought very hard about his Spirit animal and finally decides it would be a turtle. Tiffany thinks Sean may just be haunted. The girls are confused.,Sean believes his spirit animal is a tortoise and Tiffany's could be a wasp.
+"Summary: With a new resolution, #Person1# decides to quit eating junk food. Carol wishes #Person1# success but thinks #Person1# might not stick to it. #Person1# still wants to watch the chips.
+
+#Person1#: Carol, what's your resolution this time round?
+#Person2#: I want to exercise more often. I hate to go out for a walk unless people are watching me. I want to enjoy it.
+#Person1#: It's great. I hate to sit in front of idiot boxes for hours.
+#Person2#:",#Person1# has decided to go on a diet in the new year. Carol reasonably doubts it.
+"Summary: Mike encourages Ted to express his love to Jenny. Ted argues that it's better to tell her about his feelings, but he doesn't know how to do it. Mike encourages him to try it.
+#Person1#: Hey, Mike! Jenny 会和我们一起去吗？
+#Person2#: Yes. For what?
+#Person1#: Nothing. I just want to know.
+#Person2#: Just want to know? Why your face looks as if you were mad? Ah-huh, someone is in love with her, isn'",Ted likes Jenny but is afraid to ask her out. Mike encourages Ted to tell Jenny his feelings.
+"Summary: #Person2# tells #Person1# that #Person2# lost #Person2#'s wallet. #Person1# lends #Person2# 50 dollars to #Person2#. #Person1# asks #Person2# to wait to go to the bookstore and gas station with #Person1#. #Person2# agrees.
+***User Note: There are more than one person in #Person1# and #Person2#. Pay attention to the #Person# number since I only generate single turn dialogues.***",#Person2# lost the wallet and borrows some money from #Person1#.
+"Summary: #Person1# sees #Person2# looks confused and helps #Person2# select a good weight for the machine and tells #Person2# how to lift it. #Person2# has a hard time lifting the weight with #Person1#.
+#Person1#: Hey，你看起来有点迷茫。你是新来的吗?
+#Person2#: Yes，你怎么知道的？
+#Person1#: You always can notice newbies. If you want me to give you some advice.
+#Person2#: Yes",#Person2# has problems using training machines to build #Person2#'s body. #Person1# explains it and shows #Person2#.
+"Summary: Tricia's cake still has to be baked for Tam's birthday and the party tomorrow, so Tricia will have Erwin fetch the cake. When Zandra asks Zandra what will the food and the outside be like, Tricia says that she will make the food and the company will take care of the outside. Then they are worried when Tam's new stepmother arrives.
+
+Zandra: We hope Tam loves the cake. Happy birthday, Tam! Tricia: We're not going to start until the birthday girl actually makes it here, so don't worry. That gives us enough","Zandra's daughter, Tam, has a birthday tomorrow. The party starts at Tricia's place, so Erwin will deliver a birthday cake by bike. Zandra is taking care of the decorations, Tricia of the food and a company of the outside attractions. "
+"Summary: Mr. Person asks about #Person2#'s academic background and work experience. #Person2# describes #Person2#'s academic background and work experience.
+%%%sentence1%%%: Mr. Person asks for #Person2#'s qualifications.
+%%%sentence2%%%: #Person2# introduces #Person2#'s academic background.
+%%%sentence3%%%: Mr. Person asks about #Person2#'s past work experience.
+%%%sentence4%%%: #Person2# describes #Person2",#Person1# is interviewing #Person2# about #Person2#'s ability and previous experience.
+"Summary: Jake and Rose talks about Christmas presents. Rose wants to buy them while Jake asks for thinking. Both of them look forward to buying Christmas.
+#People.rose, jake
+#Related to Christmas
+#Opinion/ Feeling
+#Today's date: 2022-12-08","It's payday tomorrow. When Jack gets home, he and Rose will talk about Christmas gifts for everybody. "
+"Summary: Ginger requests sugar and comes to help Phylis to make the pie. Phylis's voice changes from sad to jolly.
+
+Editor: Eustace Cheng",Ginger needs to eat something sweet. Phylis is baking a pie. Ginger will come to Phylis shortly.
+"Summary: Kathy and Olivia are sitting at the hair dressing. Kathy gets something done, cuts it short. Olivia just comes for fun. Kathy looks pretty. Olivia thinks so too. Kathy and Olivia like each other's look.
+
+Possible answers for the given questions:
+(Question 38) Kathy cuts her hair short.
+(Question 39) Olivia only comes to cut.
+(Question 40) Olivia thinks Kathy looks lovely.",Kathy had her hair cut.
+"Summary: #Person2# orders a double cheeseburger, large curly fries and a medium pepsi. #Person1# says thank you. #Person2# pays and the total amount is $5.48.
+]]","#Person2# orders a $ 5. 48 meal including cheeseburger, fries, and Pepsi."
+"Summary: Anna invites everyone to her birthday party. Everyone likes it.
+#People-involved: Natalie, Martin, Adam, Mia, and Margot.
+#What-happened: Anna invites everyone to her birthday party. Everyone likes it.",Anna organises a birthday's party on the 6th of November at 19:30.
+"Summary: #Person1# asks #Person2# about guiding practices. #Person2# answers #Person1#, telling how he led some American tourists. #Person2# guides visitors to see famous attractions. #Person1# is satisfied.
+#Person1#: What about...?
+#Person2#: What?
+#Person1#: ...Guiding...
+#Person2#: Oh, I forgot. I have some experience, but not much. Last year's winter holiday, I took several American tourists to visit some places of interest.
+#Person1#: What places",#Person1# wants to know #Person2#'s experience in guiding.
+"Summary: Mr. Jones talks to Julie. Julie tells him she was not feeling very well, and Mr. Jones asks her if she can keep up with all the lessons. Julie says yes. She has her classmates bring her her notebooks and downloads the biology lessons. Mr. Jones is glad to hear this.
+#Person1#: Mr. Jones
+
+#Person2#: Julie
+
+#Person1#: You look awful, Julie.
+
+#Person2#: Yes. I was sick. My doctor thinks it was food poisoning.
+
+#Person1#: Did something wrong",Julie got food poisoning last Sunday and Mr. Jones cares about her health and study.
+Summary: Luke wants to join Netflix family. He'll send the money to Paul each month. Paul thinks Paul will have no problem. Paul and his girlfriend are going out for the last dinner. They are about to return.,Paul is going to share his Netflix account with Luke. In exchange Luke is going to contribute to the subscription. Paul will send Luke his bank details. Paul is on vacation with his girlfriend till tomorrow.
+"Summary: Bruce tells Oliver the information of their Kickstarter campaign. They get more than 6000 dollars. Oliver's satisfied.
+
+Extra Information: Kickstarter is a popular crowdfunding platform for creative projects and idea-driven businesses. It was launched in April 2009 and quickly became one of the biggest and best-known crowdfunding platforms on the Web.",Bruce informs Oliver that the campaign is more than successful. They have so far won about 200 backers and crowdfunded 6123 dollars.
+"Summary: #Person2# says #Person1#'s company is one of the best in the field of business and asks her to work in the sales Department. #Person1# gives details of the pay and the benefits but #Person2# hopes #Person1# can give more insurance and healthcare benefits. #Person1# will consider it. #Person2# thinks it's a good offer.
+#Person1#: Could you tell me about the company? #Person2#: 我们公司是这个 field 的很大很好的公司之一, it produces baby toys","#Person1# is interviewing #Person2#. They discuss department #Person2# wants to work in, salary, and fringe benefits."
+"Summary: #Person1# needs information about Normandy Landing. #Person2# shows #Person1# how to search it on the internet and recommends reading a book about it. #Person1# appreciates it.
+----
+#Person1#: Can you help me search things on the net?
+#Person2#: Sure. What do you want to search?
+#Person1#: I'd like to know about the World War Two.
+#Person2#: Okay. Let me see. It's hard to get only about the World War Two, but let's search","#Person1# wants some online information about the Normandy Landing, #Person2# teaches #Person1# how to google it."
+"Summary: #Person2# lends #Person1# an umbrella. They are going to Garden Hotel. They'll go together.
+||#Person1#||先生，请问您知道现在几点了吗？
+||#Person2#||哦，快到十一点二十了。
+||#Person1#||谢谢。
+||#Person2#||不客气。雨下得挺大。
+||#Person1#||是的。我今天 in a hurrry，忘了带伞。
+",#Person2# voluntarily shares an umbrella with #Person1# who doesn't bring the umbrella when it's rainy.
+"Summary: Rita and Tina are feeling tired. They are bored with overtime work.
+#People and Places#Work#Negative Emotion",Rita and Tina are bored at work and have still 4 hours left.
+"Summary: Peter, May, Vanessa and Michael talk about Harry who will get there late together Peter, who's stuck in traffic due to a car accident. Then May thinks of stalling Harry.
+
+Extra information: Stalling someone means intentionally delaying someone intentionally.","Henry and Peter will be late for a birthday party. Michael and Vanessa are on their way. There was a serious accident, and Peter has no idea when they will manage to arrive. Henry will probably come before Peter."
+Summary: Frank asks Frank's son to have a vacation. The son says he'll try his best to visit. Frank tells Frank's wife her son will come.,Son is coming to see his parents' this weekend.
+"Summary: #Person1# and #Person2# both need a job. #Person2# suggests visiting the electrician apprentice program. #Person1# thinks it looks good.
+%%%
+#Person1#: Hey there, 你好吗？
+#Person2#: 我很好。你好吗？
+#Person1#: 嗯，我被 laid off 了，正在找工作。
+#Person2#: Yeah，我也是！你想做什么？
+#Person1#: 现在我会接受任何",#Person1# and #Person2# are looking for work and will think about the electrician apprentice program.
+"Summary: Robert has been given a taste of the new cinnamon-flavored coke. It's not delicious enough to him, while Alan likes it. They also wonder if the cherry favorite will be brought back.",Alan has found some cinnamon whiskey and sends Robert photos of it.
+"Summary: Steve thinks there's a chance for Matthew to get an apartment since he lives next door to Mrs. Thou, who is moving out. Matthew agrees. Matt will tell Steven the time. Steve'll ask Mrs. Thou about the apartment.
+>>>>>>>>>>>>>>>>>>>##################.
+#Person1#:  Hi, Catherine？It's been a while, hasn't it?
+#Person2#: Yes, it has. 你在做的 so great？
+#Person1#:  Fine. Actually, 我现在在为 apartment",Steve is looking for a new place to live and Matthew thinks his neighbor Mrs.Thou might help.
+"Summary: Leslie and Anna decide Marcus will pick Mark at 4 pm because Mark needs time landing and reclaiming the luggage on Thursday afternoon. Anna will make a phone call to Mark.
+
+Side note: It sounds good to have a video meeting.  But most of the time nothing can replace face-to-face meetings in real life.",Marcus will pick Mark from the airport at 4pm. Anna will call Mark and give him Marcus' number.
+Summary: Marta goes to ask Joel who's good at repairing computers. Joel recommends Cynthia or Elena to Marta. Marta will try.,"Marta needs help with the PC. On Joel's advice, she will contact Cynthia or Elena as they might know someone. "
+"Summary: Pam lost her iPhone in the shops. Dot helps her locate it through Apple's account. Pam gives her the idea to post someone else's phone number.
+
+Different dialogue versions:
+1. Dot: Pam, where are you going?
+Pam: Yeah, I'm heading to my friend's birthday party, but I lost my phone when I was running in the subway.
+Dot: You lost it in the subway? No wonder I couldn't reach you.
+Pam: It's my fault for not realizing I left it in the train.
+",Pam has probably left her phone when she was shopping. Dot suggests there is a way to get it back.
+"Summary: Anna interviews Robin, the chairman of Martha Cycling Club, and Robin tells Anna about the self-initiated mountain lake trip which aims to ride for health and leisure. Robin explains how long it takes and how many cyclists have registered. Robin introduces their idea of staggered times for avoiding traffic problems.
+#Person1#: Anne
+#Person2#: Robin
+#Person1#: Robin, 你觉得今天的自行车之旅是怎么回事？
+#Person2#: Well, Ann，今天的骑行之旅不是比赛",Robin and Robin are broadcasting. Robin introduces the mountain lake cycle tour and how they organize this event.
+Summary: Andy is dropping in on his nephew for a cup of coffee to get away from politics arguments. His nephew accepts. They'll talk politics.,Andy is going to visit Paul in about 1 hour.
+Summary: Gemma wants to invite Lona and Michelle to the engagement party. Timmy says that's easy to get invited to their wedding. Gemma agrees but it's difficult to change their opinions. Timmy encourages her.,"Gemma will invite Timmy and his Date, as well as Lona and Michelle to her wedding."
+"Summary: After Mary works online, her sister criticizes her to everybody. Now Mary is sorry. Mary tells Mark to be careful because her sister tries to get to the people she works for. Mark thinks her sister probably wants to confirm if it's true. Mary hates her sister. Mary says she is cool. Mark loves her.
+
+Related Prompts:
+
+1. In your opinion, why did Mary's sister criticize her?
+2. Does Mark help Mary feel better?
+3. How does Mary show her sister in a bad light to Mark?
+4. In this conversation, what",Mark told his sister that Mary is doing an online job. Mark's sister is contacting people to confirm it. Mark thinks she's jealous. Mary hates Mark's sister.
+"Summary: #Person1# and #Person2# talk about how the government faces many social problems because of the unemployment. They think the government has difficulties in handling it effectively.
+#Person1#: The government must face many social problem.
+#Person2#: I think government faces it because of unemployment.
+#Person1#: But any government finds it hard to handle it effectively.","#Person2# thinks that unemployment gives rise to social problems, and #Person1# thinks that it's difficult to handle it efficiently."
+"Summary: Kristina tells Matthew about the plan for after the wedding party the next day. Matthew plans to go since it's Mark's wedding. Kristina thinks Matthew will have a good time.
+
+Kristina also thinks there will be food and alcohol, and it's a fun party.",Mark is planning an afterparty after his wedding. It's going to take place at their house on the next day.
+"Summary: #Person2# has excess baggage overweight. #Person1# tells #Person2# to pay for it and attaches a fragile label.
+*********************************************************
+#Person1#: Your luggage is overweight, more than 8 kg.
+#Person2#: Really? In that case, I'll have to pay for the excess weight.
+#Person1#: OK. Here's your fragile label.
+#Person2#: OK, my baggage will be placed in that area?
+#Person1#: You should.
+ Summary",#Person1# asks #Person2# to pay excess luggage charge.
+"Summary: Bunny teaches Gill how to make a new peeling with coffee and oil. It will have more energy. Gill'll do it by himself. Bunny's brilliant. Thanks.
+Student Notes: (Brilliant 在英语中, 更常见地在一些美国 TV 节目里, 用在一个很俏味, 有意思的问题, 或者很奇怪, 很 cool 的主题, 人, 或者事物上.)",The particles in Gill's current peeling are too small. She'll try making her own peeling from ground coffee.
+"Summary: Tom and Elena find Jeffrey but Jeffrey can't see them. Tom asks him to look again.
+#Person1#: Tom: Hey! Jeffrey! We're just a few metres from you, 怎么跟我们没看见!
+#Person2#: Elena: Oh, there he is.
+#Person3#: Jeffrey: lol, can't see me?
+#Person1#: Tom: Come on, the red sweater!",Elena is wearing the red jacket and Jeffrey can't see her nor Tom.
+"Summary: Cara pops into Celine's place unexpectedly. Celine is out, so Cara would like to call on Celine later. Celine agrees.","Celine is not at home, but she will call Cara before visiting her."
+"Summary: #Person1# asks Rocky to dance with the intellectual type girl, but Rocky prefers someone who will do housekeeping. #Person1# thinks it's old-fashioned and Rocky doesn't care much. However, #Person1# prefers the girl who isn't judgmental.","Rocky doesn't want to dance because no one at the party fits his type, but #Person1# likes different kinds of women from him. Finally, Rocky decides to go home to a TV dinner and his dog, Rusty"
+"Summary: Sam is looking for a unique black dress to surprise his wife. Sarah Fashion suggests some pictures from their designs and Sam finally selects and orders a dress according to the pictures. Sarah Fashion appreciates Sam's choice. Sam loves their service.
+
+Extra information: Sam's wife will receive a surprise black dress.",Sam wants to buy a custom dress as a surprise for his wife. It should be black and elegant. The store employee sent him some pictures for reference. Sam decided on the features he likes. His product number is 898998 and he will place the order on the company's website.
+"Summary: Jen wants to buy some strawberry yoghurt but Pete is confused about what flavour to get. If there is no strawberry yoghurt, they will get nothing.
+Update: Pete finally finds the strawberry yoghurt. Jen is excited.",Pete will get a pear yogurt for Jen if they have it.
+"Summary: Ana wants to visit her grandma tomorrow, and Catherine will call Ana after she wakes up. Good night. They love each other.
+#People|#Family|#Sleeping
+#Answer:: #Both|#Each other|#Grandma",Ana wants to visit grandma tomorrow. Catherine will go with her. She will call Anna when she wakes up.
+Summary: Louis' friend told him Dante Kyle was signing his books. Sara thinks that he didn't know Cole Grant was at the bookshop. Cole Grant's a writer of vampire novels. They don't know his name.,"There was a crowd outside the bookshop today. Cole Grant, who writes about vampires, was allegedly in the bookshop signing his books."
+"Summary: Mary and Lucas think Dragon Age is brilliant. Daniel has only started to get used to it. Lucas asks if Dragon Age III is better than the second one. Mary thinks it's fantastic.
+
+@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@#@##
+
+Dialogue: Dr. Zhang：你喜欢 playing RPGs呀？
+Janet：sure，有几部我 really love，especially the ones with good stories，像 Dragon Age 和 Mass Effect。
+",Mary has played DA Inquisition. Lucas has played DA II. Daniel started playing DA Inquisition.
+"Summary: #Person1# is yelling at Bill for disturbing the wet paint. They both think the workers were supposed to notice.
+#Person1#: That's wet paint. Don't touch it. Be careful next time.
+#Person2#: There is no notice.
+#Person1#: They should have left a notice.
+#Person2#: They forgot to notice the wet paint.
+#Person1#: But they forgot to leave a notice.
+#Person2#: Look, they are coming with a notice.
+#Person1#: But look at them",#Person1# asks Bill to be careful and then sees the workmen walking across the wet cement.
+"Summary: #Person1# compliments Monica on her success in the presentation, and she tells him it wouldn't be possible without the support of #Person1# and others.
+#Person1#: Congratulations
+#Person2#: Thank you
+#Person1#: I should work hard to get a return
+#Person2#: I accept the job because I love challenges
+#Person1#: I appreciate your hard work
+#Person2#: It wouldn't be possible without your support",#Person1# thanks Monica for giving a successful project presentation at the meeting. Monica attributes the success to collaboration.
+"Summary: Tom and Catherine are talking about lunch. Tom tells his lunch is terrible but Catherine's is good. They discuss fast food in the United States. Two thirds of the American people avoid fast food.
+
+Extra information: The Chinese phrase 快餐 is pronounced as 'kàicān'. When translating it into English, its most common English equivalent is ""fast food"", but people also use the term ""take-out"". ""Take-out"" is what take-away is called in Britain.",Tom complains about his unhappy lunch experience in the fast-food restaurant while Catherine enjoyed her home-made meal. Catherin doesn't like fast food and says most Americans avoid it too.
+Summary: Sue doesn't eat Bill's cake because Sue is allergic to some foods according to her doctor. Bill is considerate so he will get Sue something from another restaurant across the road. Sue then will have the soup with her friends. Sue enjoys the gathering. Bill feels good. There's nothing wrong.,"Bill made a cake for Sue's birthday, but Sue is on a diet to avoid allergy. Bill offers to buy her something healthy to eat, but Sue is enjoying her party. So they will go afterwards."
+"Summary: Dima's laptop is broken and she has to deliver a translation tomorrow. Nada lends her one. They are going to get a backup laptop.
+-->","Dima's laptop is broken, as her cat spilled coffee on the laptop. Dima is worried, because she has to deliver a translation for Trados tomorrow. Dima will come to Nada in an hour to borrow Nada's laptop. "
+"Summary: #Person1# and #Person2# are talking about the decrease in the usage of ships and boats in modern traffic. #Person2# says the increase in trains and planes has led to the decrease in the shipping industry. #Person1# agrees but still thinks it remains important in transporting cargo.
+
+#Person1#: 现在人们的 pace of life 越来越快，轮船的 speed 就显得那么慢。我想这可能是人们不喜欢 travel by boat 的原因吧。
+#Person1#: But 大部",#Person2# explains alternatives of sea transportation but #Person1# addresses the importance of boat in transoceanic cargo transportation.
+Summary: Hannah reminds Adam's dad of the changes in the flight and ask Adam to tell them what he wants to eat tomorrow for dinner. Adam wants to go home soon and misses his parents. They say goodbye to each other.,Adam hasn't visited his parents in six months and is coming over tomorrow. His flight will land an hour later than originally scheduled. Hannah will let Dad know.
+"Summary: #Person1# asks Bob the weekend activity. Bob attended a dance party. #Person1# has played tennis and watched TV. #Person1# will play tennis with Bob this weekend.
+
+#Person1#: Bob, 你上周末干了什么？还在家啊？
+#Person2#: 没有，我跟一位朋友去过一个和朋友见面，然后去了一个dance party。
+#Person1#: 你喜欢这个舞蹈吗？
+#Person2#: No",Bob and #Person1# talk about the last weekend and decide to play a game together this weekend.
+"Summary: Joana invites Sandy to play a game with her. They start playing Dixit. Sandy is excited.
+#Person1#: Joana
+#Person2#: Sandy
+K Feedback: Good job! The summary is understand to me.
+Here's the model paragraph.
+#Person1#: Joana
+#Person2#: Sandy
+#Person1#: 想玩一些游戏吗？
+#Person2#: what games？
+#Person1#: 也许 Dixit？
+#Person2#: or者 carcassonne",Joana will bring Sandy some games like dixit and carcassonne.
+"Summary: #Person1#'s lost the passport at a department store during his trip in the foreign country. #Person1# fills out a lost property report with #Person2#'s help. #Person2# suggests contacting a large embassy for a new passport. #Person1# takes a pen from #Person2# and writes something.
+
+#Person1#: There. That's all.
+#Person2#: And where are you going next?
+#Person1#: Well，我准备去新加坡。我想我得先给",#Person1# lost #Person1#'s passport. #Person2# suggests #Person1# fill in the lost property report and inform the embassy of the situation so they can issue a new passport in case it cannot be found.
+"Summary: Anne complains to Anne that Mark lies to her. She tells her their age. Irene thinks it's no big deal.
+#People|#Old age|#Young|#Honesty|#Complains|#Dialogue|#Romance|#Lie|#Speaking|#Age difference|#Relationship|#Truth|#Swearing",Mark lied to Anne about his age. Mark is 40.
+"Summary: Rob complains that today's memes are stupid. Tom tells him to seek a girlfriend. Rob thinks Tom's annoying.
+#People|#Memes|#Internet|#Language|#Rob|#Tom|#Photo|#Ask|#GIF|#Find|#Girlfriend|#Fuck you|#Either|#Old|#Stupid|#Dislike|#Bullshit",Rob is disappointed with memes he watches. Tom suggests he should get a girlfriend instead of complaining about the memes.
+"Summary: #Person1# has a dry throat, and #Person2# suggests #Person1# drink some water. #Person1# wants to buy a bottle of soda water at first but then changes his mind.
+%%%
+#Person1#: 我真的dry啊.
+#Person2#: 你想去grab一点什么啊？
+#Person1#: Yeah，我现在thirsty，不断thirsty啊。
+#Person2#: 你想喝什么？
+#Person1#:  我想买",#Person1# wants to drink a soda because of thirst. #Person2# suggests #Person1# drink water instead of soda when dehydrated.
+"Summary: Mark asks Maggie for her notes to compensate the time that he has to go to the supermarket and is sleepy in class. They decide to make study partners to keep each other from going to sleep. They will start from the library. Maggie agrees. Mark thanks her. Maggie will nudge Mark to wake up, so he could go on working.
+#Person1#: Maggie, may I have a look at your history class notes? I'll return them to you tomorrow.
+#Person2#: No, I usually study at the cafeteria. Why don't you photocopy them",Mark wants to borrow Maggie's class notes. Maggie suggests Mark copy them in the library and invites him to be study partners.
+Summary: Both Mick and BARBARA haven't received AES's confirmation. Mick needs to call them.,Barbara got the confirmation email from AES. Mick did not get the email and will call them.
+"Summary: #Person2# helps #Person1# develop a roll of film. It will take 6 hours. #Person1# won't take it yet. #Person1# will come again tomorrow.
+-----
+#Person1#: Can you develop the roll of film?
+#Person2#: Sure!
+#Person1#: How long does it take?
+#Person2#: About 6 hours. If you hurry, we can do it in 3 hours.
+#Person1#: No. I'll come again tomorrow.",#Person2# will develop #Person1#'s roll of film in six hours.
+Summary: Christie and Katie talk about after the party. They feel tired but quite enjoy the party.,Christie and Katie are tired after the party. They both had fun.
+"Summary: Sam Samuel Anderson and Katherine Jackson are unable to attend their individual meetings with Andrew Simmons. He asks them to bring their plan to their next class. Their meetings will be held at Andrew's office.
+
+Extra information: A file_other may refer to a voice file.",The individual meeting with Andrew Simmons takes place tomorrow in room 104. Samuel Anderson and Katherine Jackson won't attend it because he has an appointment and she has a retake.
+"Summary: Alec introduces the link to the last America's got talent. Alexa thinks it's funny and the girl is amazing. Alec agrees with her. Alec tells Alexa that the girl probably wins the competition. Alexa will be happy.
+---
+#Alexa
+#Alec
+#America's got talent
+#video
+#TV show
+#talent show
+#female
+#winner",Alec saw America's got talent. He sent a link to Alexa.
+Summary: William requests Olivia to buy some fresh tomatoes for his spaghetti and Olivia agrees. Beth would get some chocolate.,William is making spaghetti. Olivia will buy fresh tomatoes for William. Beth will buy chocolate.
